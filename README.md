@@ -1,4 +1,3 @@
- # codingTasks
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
@@ -35,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">codingTasks</h3>
 
   <p align="center">
-    project_description
+    The project contains a simple hack code.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+This project is part of the HyperionDev Cybersecurity bootcamp Task 21. It contains code files and a README.md `mgareja`, `codingTasks`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,13 +93,13 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![Python][Python.py]][Python-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Python][Python.org]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,3 +255,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Python-url]: https://python.org 
