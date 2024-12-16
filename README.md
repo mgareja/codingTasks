@@ -99,7 +99,7 @@ This project is part of the HyperionDev Cybersecurity bootcamp Task 21. It conta
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![Python][Python.org]][Python-url]
+* [![Python][python.org]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
