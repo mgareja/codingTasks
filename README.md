@@ -18,28 +18,16 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![project_license][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">codingTasks</h3>
 
   <p align="center">
-    The project contains a simple hack code.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    The project contains a simple hack code example.
     <br />
     <br />
     ·
@@ -82,9 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-This project is part of the HyperionDev Cybersecurity bootcamp Task 21. It contains code files and a README.md `mgareja`, `codingTasks`.
+This project is based of the HyperionDev Cybersecurity bootcamp Task 21 - Cross Site Scripting. It contains code files and a README.md `mgareja`, `codingTasks`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,10 +143,7 @@ Below are screenshots of the code. The vulnerability has been exploited.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [X] This code injects code to exploit a vulnerability 
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -184,10 +167,9 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
-</a>
-
+* [![HyperionDev][HyperionDev.js]][HyperionDev-url]  provided code files that were editted
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
@@ -202,10 +184,9 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+mgareja - https://github.com/mgareja
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+Project Link: https://github.com/mgareja/codingTasks
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -213,9 +194,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* HyperionDev Mentors
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,3 +221,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [SQLite-url]: https://www.sqlite.org
 [VisualStudioCode.js]: https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [VisualStudioCode-url]: https://code.visualstudio.com 
+[HyperionDev.js]: https://img.shields.io/badge/HyperionDev-2C3E50?style=for-the-badge&logoColor=white
+[HyperionDev-url]: https://www.hyperiondev.com 
