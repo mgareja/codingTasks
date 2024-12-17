@@ -99,8 +99,10 @@ This project is part of the HyperionDev Cybersecurity bootcamp Task 21. It conta
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![Python][python.org]][Python-url]
-
+* [![Python][Python.js]][Python-url]
+* ![SQLite][SQLite.js]
+* [![VisualStudioCode][VisualStudioCode.js][VisualStudioCode-url]
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -255,4 +257,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Python.js]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org
+[SQLite.js]: https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
+[SQLite-url]: https://www.sqlite.org
+[VisualStudioCode.js]: https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[VisualStudioCode-url]: https://code.visualstudio.com 
