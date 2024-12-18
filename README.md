@@ -143,7 +143,7 @@ Below are screenshots of the code. The vulnerability has been exploited.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] This code injects code to exploit a vulnerability 
+- [X] Injected code exploits vulnerability 
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
