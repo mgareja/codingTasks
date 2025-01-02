@@ -127,14 +127,12 @@ Install homebrew for macOS devices
 
 Below are screenshots of the code. The vulnerability has been exploited. 
 
+<img width="740" alt="vun" src="https://github.com/user-attachments/assets/a760747b-8c15-44eb-88aa-9c929cddd8cd" />
 
-<img width="918" alt="Screenshot 2024-12-17 at 22 02 00" src="https://github.com/user-attachments/assets/c1a15dad-3a42-4c11-9888-65cd3e02d39d" />
+<img width="735" alt="code" src="https://github.com/user-attachments/assets/33f465c6-c90d-40f2-827e-6f3b65d5b60a" />
 
+![hack](https://github.com/user-attachments/assets/8935eefe-1cd8-4064-8985-78dfa8492cd5)
 
-<img width="1016" alt="Screenshot 2024-12-17 at 22 00 41" src="https://github.com/user-attachments/assets/7111120a-09ec-4c16-911c-a84438efac10" />
-
-
-<img width="789" alt="Screenshot 2024-12-17 at 22 01 27" src="https://github.com/user-attachments/assets/4db9e64c-9f2f-4480-9ddf-71421d57ed52" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
